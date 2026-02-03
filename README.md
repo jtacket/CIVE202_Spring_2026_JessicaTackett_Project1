@@ -2,5 +2,5 @@
 This includes files for Project No.1
 
 ## Raw data from Airpurple of the air quality in Nebraska
-[open data file](data/CIVE202_Spring_2025_JessicaTackett_Project1_PythonCode.ipynb)
+[open data file](data/AirQuality_Daily_StudentVersion.csv)
 
