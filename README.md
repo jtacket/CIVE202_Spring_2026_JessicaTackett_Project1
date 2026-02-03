@@ -8,7 +8,7 @@ This includes all the files for Project No.1
 ### Python Notebook containing my code
 [open notebook](CIVE202_Spring_2025_JessicaTackett_Project1_PythonCode.ipynb)
 
-## Analysis of the work
+## Analysis of the data
 ### Written Report
 [open written report](CIVE202_Spring_2026_JessicaTackett_Project1_WrittenReport.docx)
 
